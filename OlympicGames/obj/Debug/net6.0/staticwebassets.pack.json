@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\OlympicGames.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OlympicGames.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_as-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_as-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_br-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_br-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_ca-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_ca-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_ch-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_ch-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_ci-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_ci-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_cy-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_cy-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_fi-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_fi-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_fr-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_fr-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_gm-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_gm-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_it-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_it-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_ja-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_ja-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_jm-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_jm-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_lo-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_lo-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_mx-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_mx-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_nl-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_nl-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_pk-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_pk-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_po-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_po-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_rs-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_rs-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_sw-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_sw-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_th-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_th-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_uk-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_uk-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_up-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_up-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_us-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_us-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_uy-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_uy-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\images\\tn_zi-flag.gif",
+      "PackagePath": "staticwebassets\\images\\tn_zi-flag.gif"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\College\\CIS174\\OlympicGames\\OlympicGames\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.OlympicGames.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.OlympicGames.props",
+      "PackagePath": "build\\OlympicGames.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.OlympicGames.props",
+      "PackagePath": "buildMultiTargeting\\OlympicGames.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.OlympicGames.props",
+      "PackagePath": "buildTransitive\\OlympicGames.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
