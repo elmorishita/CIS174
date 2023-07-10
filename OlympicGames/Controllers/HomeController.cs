@@ -1,7 +1,4 @@
 ﻿using OlympicGames.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -23,7 +20,6 @@ namespace OlympicGames.Controllers
             session.SetActiveCategory(model.ActiveCategory);
             session.SetActiveGame(model.ActiveGame);
 
-            // if no count value in session, use data in cookie to restore fave teams in session 
             int? count = session.GetMyCountryCount();
             if (count == null)
             {
@@ -37,8 +33,6 @@ namespace OlympicGames.Controllers
                         .Where(t => ids.Contains(t.CountryId)).ToList();
                 session.SetMyCountry(mycountries);
             }
-
-
 
             model.Games = context.Games.ToList();
             model.Categories = context.Categories.ToList();

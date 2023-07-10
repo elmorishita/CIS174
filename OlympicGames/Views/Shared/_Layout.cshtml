@@ -15,7 +15,7 @@
 </head>
 <body>
     <header>
-        <h1 class="bg-primary mt-3 p-3">NFL Teams</h1>
+        <h1 class="bg-primary mt-3 p-3">Olympic Countries</h1>
 
         @* show any message in TempData *@
         @if (TempData.Keys.Contains("message"))
@@ -35,7 +35,6 @@
                     <a asp-controller="Favorites" asp-action="index" 
                     class="text-white">My Favorite Countries</a>
 
-                    @* get number of Favorite teams from session and display in badge *@
                     <span class="badge bg-light text-black">@count</span>
                 </h5>
             }
