@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\College\\CIS174\\Murach\\aspnet_core_mvc\\book_apps\\Ch10bToDoList\\ToDoList\\ToDoList.csproj": {}
+    "D:\\College\\CIS174\\Murach\\aspnet_core_mvc\\Ch10bToDoList\\ToDoList\\ToDoList.csproj": {}
   },
   "projects": {
-    "D:\\College\\CIS174\\Murach\\aspnet_core_mvc\\book_apps\\Ch10bToDoList\\ToDoList\\ToDoList.csproj": {
+    "D:\\College\\CIS174\\Murach\\aspnet_core_mvc\\Ch10bToDoList\\ToDoList\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\College\\CIS174\\Murach\\aspnet_core_mvc\\book_apps\\Ch10bToDoList\\ToDoList\\ToDoList.csproj",
+        "projectUniqueName": "D:\\College\\CIS174\\Murach\\aspnet_core_mvc\\Ch10bToDoList\\ToDoList\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "D:\\College\\CIS174\\Murach\\aspnet_core_mvc\\book_apps\\Ch10bToDoList\\ToDoList\\ToDoList.csproj",
+        "projectPath": "D:\\College\\CIS174\\Murach\\aspnet_core_mvc\\Ch10bToDoList\\ToDoList\\ToDoList.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "D:\\College\\CIS174\\Murach\\aspnet_core_mvc\\book_apps\\Ch10bToDoList\\ToDoList\\obj\\",
+        "outputPath": "D:\\College\\CIS174\\Murach\\aspnet_core_mvc\\Ch10bToDoList\\ToDoList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
